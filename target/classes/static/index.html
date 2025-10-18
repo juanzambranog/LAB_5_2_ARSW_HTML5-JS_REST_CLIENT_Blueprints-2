@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blueprints</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <script src="js/apimock.js"></script>
+    <script src="js/apiclient.js"></script>
+    <script src="js/app.js"></script>
+</head>
+<body class="container">
+
+    <h1>Blueprints</h1>
+
+    <div class="form-group">
+        <label for="author">Author:</label>
+        <input type="text" id="author" class="form-control" placeholder="Ingrese el numbre del autor">
+    </div>
+
+    <button id="getBlueprints" class="btn btn-primary">Get blueprints</button>
+
+    <h3 id="authorName"></h3>
+
+    <table id="blueprintsTable" class="table table-striped mt-3">
+        <thead>
+            <tr>
+                <th>Blueprint Name</th>
+                <th>Points</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <div id="totalPoints" class="mt-3"></div>
+
+    <div id="currentBlueprint" class="mt-3">
+        <h3>Current blueprint: <span id="currentBpName"></span></h3>
+        <canvas id="blueprintCanvas" width="500" height="500" style="border:1px solid #000;"></canvas>
+        <br>
+        <button id="saveBlueprint" class="btn btn-success mt-2">Save / Update</button>
+    </div>
+    
+
+    
+
+    <script>
+        $("#getBlueprints").click(function () {
+            var authorName = $("#author").val();
+            app.updateBlueprints(authorName);
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/persistence/impl/Tuple.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/main/App.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/persistence/BlueprintsPersistence.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/model/Blueprint.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/services/AppConfig.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/model/Point.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/controllers/ResourceNotFoundException.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprintsapi/BlueprintsAPIApplication.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/persistence/BlueprintPersistenceException.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/services/BlueprintsServices.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/filter/SubsamplingFilter.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/filter/RedundancyFilter.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/controllers/BlueprintAPIController.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/persistence/impl/InMemoryBlueprintPersistence.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/filter/BluePrintFilter.java
+/Users/juandavid/LAB_5_2_ARSW_HTML5-JS_REST_CLIENT_Blueprints-2/src/main/java/edu/eci/arsw/blueprints/persistence/BlueprintNotFoundException.java
